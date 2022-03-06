@@ -39,8 +39,9 @@
     height: 70px;
     font-style: italic;
     background-color: #80DEEA;
-    padding-top: 20px;
     text-align: center;
+    color: whitesmoke;
+    padding-top: 32px;
   }
 
   .overviewInfo{
