@@ -4,6 +4,11 @@
     padding: 20;
     font-family: "Roboto";
   }
+
+  .app{
+    width: 80%;
+    margin: 0 auto;
+}
   
 .header{
     background-color: #03A9F4;
