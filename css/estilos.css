@@ -79,3 +79,10 @@
   A:visited{
     color: #25ABE2;
   }
+
+  #footer{
+    background-color: #1D76BC;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 8px;
+  }
